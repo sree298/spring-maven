@@ -2,7 +2,7 @@
 	<head>
 	</head>
 	<body>
-		<h1>User Loin</h1>		
+		<h1>User Login</h1>		
 	</body>
 </html>
 
