@@ -1,6 +1,6 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 
-<h1>User Loin</h1>
+<h1>User Login</h1>
 <form:form method="post" action="userLogin" modelAttribute="userForm">
 	<table>
 		<tr>
@@ -8,7 +8,7 @@
 			<td><form:input path="firstname" /></td>
 		</tr>
 		<tr>
-			<td>Salary :</td>
+			<td>password :</td>
 			<td><form:input path="password" /></td>
 		</tr>
 		<tr>
